@@ -39,4 +39,6 @@ get_header(); ?>
 	</div>
 	<!-- #primary -->
 </div><!-- #main-grid -->
+<?php get_template_part( 'template-parts/content', get_post_format() ); ?>
+
 <?php get_footer(); ?>
