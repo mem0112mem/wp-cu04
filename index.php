@@ -7,6 +7,8 @@
 
 get_header(); ?>
 
+<?php echo("ごあいさつ")?>
+
 <div id="main-grid" class="row">
 	<div id="primary" class="content-area col-md-12">
 		<main id="main" class="site-main" role="main">
@@ -39,5 +41,4 @@ get_header(); ?>
 	</div>
 	<!-- #primary -->
 </div><!-- #main-grid -->
-<?php echo("サンプルテスト")?>
 <?php get_footer(); ?>
