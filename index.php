@@ -7,7 +7,7 @@
 
 get_header(); ?>
 
-<?php echo("ごあいさつ")?>
+<?php echo("おはようございます！")?>
 
 <div id="main-grid" class="row">
 	<div id="primary" class="content-area col-md-12">
